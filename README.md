@@ -30,7 +30,7 @@ National Centers for Environmental Information Paleoclimate archive at
 The PaleoCAR v2 data are high spatial resolution (30 arc-second)
 Southwestern United States tree-ring reconstructions of May-September
 Growing-degree Days (GDD) and Net Water-year Precipitation (previous
-October - current November). The reconstructions were performed using
+October - current September). The reconstructions were performed using
 the “PaleoCAR” method detailed in Bocinsky and Kohler (2014), as updated
 in Bocinsky et al. (2016).
 
