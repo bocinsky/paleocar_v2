@@ -18,13 +18,14 @@ use those data.
 This is an archive of the PaleoCAR v2 paleoclimate reconstruction
 datasets originally published in Science Advances:
 
-> Bocinsky, R.K.; Rush, J.; Kintigh, K.W.; Kohler, T.A. (2016-04-01):
-> NOAA/WDS Paleoclimatology - SW USA 2000 Year Growing Degree Days and
-> Precipitation Reconstructions.
+> R. Kyle Bocinsky, Johnathan Rush, Keith W. Kintigh and Timothy A.
+> Kohler, 2016: Exploration and exploitation in the macrohistory of the
+> pre-Hispanic Pueblo Southwest. Science Advances, 2(4), [DOI:
+> 10.1126/sciadv.1501532](https://doi.org/10.1126/sciadv.1501532).
 
 The dataset is available as tiled NetCDF files as part of the NOAA
 National Centers for Environmental Information Paleoclimate archive at
-[https://doi.org/10.25921/8ctk-8v26](DOI%2010.25921/8ctk-8v26).
+[DOI: 10.25921/8ctk-8v26](https://doi.org/10.25921/8ctk-8v26).
 
 The PaleoCAR v2 data are high spatial resolution (30 arc-second)
 Southwestern United States tree-ring reconstructions of May-September
