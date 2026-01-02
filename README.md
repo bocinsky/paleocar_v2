@@ -18,9 +18,9 @@ use those data.
 This is an archive of the PaleoCAR v2 paleoclimate reconstruction
 datasets originally published in Science Advances:
 
-Bocinsky, R.K.; Rush, J.; Kintigh, K.W.; Kohler, T.A. (2016-04-01):
-NOAA/WDS Paleoclimatology - SW USA 2000 Year Growing Degree Days and
-Precipitation Reconstructions.
+> Bocinsky, R.K.; Rush, J.; Kintigh, K.W.; Kohler, T.A. (2016-04-01):
+> NOAA/WDS Paleoclimatology - SW USA 2000 Year Growing Degree Days and
+> Precipitation Reconstructions.
 
 The dataset is available as tiled NetCDF files as part of the NOAA
 National Centers for Environmental Information Paleoclimate archive at
