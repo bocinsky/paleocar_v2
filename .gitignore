@@ -5,3 +5,5 @@
 .httr-oauth
 .DS_Store
 .quarto
+data
+paleocar_v2
