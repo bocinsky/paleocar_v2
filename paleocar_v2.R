@@ -6,7 +6,7 @@ library(furrr)
 
 terra::setGDALconfig("GDAL_CACHE_MAX", 32000000)
 
-update_aws <- FALSE
+update_aws <- TRUE
 
 dir.create("data",
            showWarnings = FALSE)
@@ -181,8 +181,9 @@ if(update_aws){
     return(parts)
   }
   
-  plan(future.mirai::mirai_multisession,
-       workers = parallel::detectCores())
+  # plan(future.callr::callr,
+  #      workers = parallel::detectCores())
+  plan(sequential)
   
   uploads <-
     list.files("paleocar_v2",
